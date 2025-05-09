@@ -11,7 +11,7 @@ This Shiny application allows users to:
 - Upload Excel files containing protein sequences and sample data.
 - Align each sequence to a given reference.
 - Count frequencies of exact matches across sequence positions.
-- Export results as Excel or FASTA files.
+- Export results as Excel or FASTA files for visualization.
 
 ## Installation
 
