@@ -20,6 +20,7 @@ if (!requireNamespace("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
 BiocManager::install("Biostrings")
 BiocManager::install("seqinr")
+```
 
 ## Input Format
 The Excel file should contain a Sequence column and multiple SampleX columns with ion count.
