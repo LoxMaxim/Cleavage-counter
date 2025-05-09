@@ -1,6 +1,9 @@
 # Cleavage-counter
 A Shiny app for aligning protein sequences to a reference, counting frequency of matches, and exporting results.
 
+Can be run locally in R.
+Alternatively a version is uploaded to [shinyapps](https://maximlox.shinyapps.io/ProteinCleavageEndCounter/).
+
 # Protein Sequence Aligner and Frequency Counter
 
 This Shiny application allows users to:
